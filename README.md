@@ -1,6 +1,6 @@
 # 📝 Quora Post App (Node.js + Express + EJS)
 
-🚧 **This project is currently under development.**  
+  
 A simple Quora-style web app where users can post their content using a clean EJS template system.
 
 ---
@@ -44,7 +44,7 @@ Then open: http://localhost:8080
 
 Author
 Tejasvi Chauhan
-GitHub Profile
+
 
 
 
