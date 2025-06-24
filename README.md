@@ -45,8 +45,10 @@ node index.js
 
 Then open: http://localhost:8080
 
-👨‍💻 Author
-Tejasvi Chauhan
+## 👨‍💻 Author
+
+**Tejasvi Chauhan**  
+🔗 [GitHub Profile](https://github.com/Tejasvi-Chauhan)
 
 
 
