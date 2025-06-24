@@ -36,13 +36,16 @@ Rest/
 
 ## 💻 Run the Project
 
+
+
+```bash
 cd Rest
 npm install
 node index.js
 
 Then open: http://localhost:8080
 
-Author
+👨‍💻 Author
 Tejasvi Chauhan
 
 
